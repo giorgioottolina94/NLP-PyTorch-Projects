@@ -1,0 +1,25 @@
+nouns,verbs,sentences,preds,true
+workers,abuse, This boss abuses his workers .,00100000000000000000,00000000000000000000
+foot,bind, The Chinese would bind the feet of their women .,00010000000000000000,00000000000000000000
+book,bind, They bind their books in leather .,01000000000000000000,00000000000000000000
+haze,blur, The haze blurs the hills .,00100000000000000000,00000000000000000000
+vision,blur, The fog blurs my vision .,00100000000000000000,00000000000000000000
+school,build, The government is building new schools in this state .,00000010000000000000,00000000000000000000
+love,buy, She wanted to buy his love with her dedication to him and his work .,00010000000000000000,00000000000000000000
+message,communicate, Please communicate this message to all employees .,01000000000000000000,00000000000000000000
+anxiety,communicate, He communicated his anxieties to the psychiatrist .,01000000000000000000,00000000000000000000
+balloon,deflate, The balloons deflated .,00100000000000000000,00000000000000000000
+surface,dull, Age had dulled the surface .,00100000000000000000,00000000000000000000
+dress,fasten, This dress fastens in the back .,00100000000000000000,00000000000000000000
+light,flash, The lights were flashing .,00010000000000000000,00000000000000000000
+log,float, He floated the logs down the river .,01000000000000000000,00000000000000000000
+pilot,kite, The pilot kited for a long time over the mountains .,00100000000000000000,00000000000000000000
+book,line, lined books are more enduring .,10000000000000000000,00000000000000000000
+prisoner,march, The Japanese marched their prisoners through Manchuria .,00100000000000000000,00000000000000000000
+mistress,paint, He painted his mistress many times .,01000000000000000000,00000000000000000000
+mushroom,poison, This mushrooms can poison .,00010000000000000000,00000000000000000000
+invader,seize, the invaders seized the land and property of the inhabitants .,00100000000000000000,00000000000000000000
+tear,shed, She shed a lot of tears when this happened .,01000000000000000000,00000000000000000000
+tear,stream, Tears streamed down her face .,01000000000000000000,00000000000000000000
+person,bow, He bowed before the King .,01000000000000000000,00000000000000000000
+people,communicate, He and his sons have n't communicated for years .,00000100000000000000,00000000000000000000
