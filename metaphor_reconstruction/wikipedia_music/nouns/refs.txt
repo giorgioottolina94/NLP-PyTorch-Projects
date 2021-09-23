@@ -1,0 +1,101 @@
+sentence
+"['Music is the art of arranging sounds in time to produce a composition through the elements of melody, harmony, rhythm, and timbre"
+It is one of the universal cultural aspects of all human societies
+" General definitions of music include common elements such as pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the ""color"" of a musical sound)"
+" Different styles or types of music may emphasize, de-emphasize or omit some of these elements"
+"Dance is performed with a vast range of instruments and vocal techniques ranging from singing to rapping; there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental accompaniment) and pieces that combine singing and instruments"
+" The term derives from Greek μουσική (mousike; ""(art) of the Muses"")"
+"In its most general form, the terminologies describing music as an art form or cultural activity include the creation of works of music (songs, tunes, symphonies, and so on), the criticism of music, the study of the history of music, and the aesthetic examination of music"
+" Ancient Greek and Indian authors defined music in two parts: melodies, as tones ordered horizontally, and harmonies as tones ordered vertically"
+" Common sayings such as ""the harmony of the spheres"" and ""it is music to my ears"" point to the notion that music is often ordered and pleasant to listen to"
+" However, 20th-century artist John Cage thought that any sound can be music, saying, for example, ""There is no noise, only sound"
+"""The creation, performance, significance, and even the definition of music vary according to culture and social context"
+" Indeed, throughout history, some new forms or styles of music have been criticized as ""not being music"", including Beethoven\'s Grosse Fuge string quartet in 1825, early jazz in the beginning of the 1900s and hardcore punk in the 1980s"
+" There are many types of art, including popular music, traditional music, art music, music written for religious ceremonies, and work songs such as chanteys"
+" Music ranges from strictly organized compositions—such as Classical music symphonies from the 1700s and 1800s—through to spontaneously played improvisational music such as jazz, and avant-garde styles of chance-based contemporary music from the 20th and 21st centuries"
+\nMusic can be divided into genres (e
+g
+", country music) and genres can be further divided into subgenres (e"
+g
+", alternative country and country pop are two of the many country subgenres), although the dividing lines and relationships between music genres are often subtle, sometimes open to personal interpretation, and occasionally controversial"
+" For example, it can be hard to draw the line between some early 1980s hard rock and heavy metal"
+" Within the arts, music may be classified as a performing art, a fine art or as an auditory art"
+" Music may be played or sung and heard live at a rock show or orchestra performance, heard live as part of a dramatic work (a music theater show or opera), or it may be recorded and listened to on a radio, MP3 player, CD player, smartphone or as film score or TV show"
+"\nIn many cultures, music is an important part of people\'s way of life, as it plays a key role in  religious rituals, rite of passage ceremonies (e"
+g
+", graduation and marriage), social activities (e"
+g
+", dancing) and cultural expressions ranging from amateur karaoke singing to playing in an amateur funk band or singing in a community choir"
+" People may make music as a hobby, like a child playing cello in a youth orchestra, or work as a professional musician or singer"
+" The music department includes the individuals who create new songs and musical pieces (such as songwriters and composers), individuals who perform music (which include orchestra, jazz band and rock band musicians, singers and conductors), individuals who record music (music producers and sound engineers), individuals who organize concert tours, and individuals who sell recordings, sheet music, and scores to customers"
+" Even once a song or piece has been performed, music critics, music journalists, and music scholars may assess and evaluate the piece and its performance"
+", 'Music is an art form consisting of sound and silence, expressed through time"
+"\nMusic may also refer to:', 'Classical music is art music produced or rooted in the heritages of Western culture, generally considered to have begun in Europe after the fall of the Western Roman Empire in the late 5th century CE and continuing to present day"
+Classical music refers to Western musical traditions considered to be apart from or a refinement of Western folk music or popular music traditions
+" The major eras are the medieval (500–1400), Renaissance (1400–1600), Baroque (1600–1750), Classical (1750–1820), Romantic (1800–1910), Modernist (1890–1975) and Postmodern era/Contemporary (1950–present) eras"
+These periods and their dates are all approximate generalizations and represent gradual stylistic shifts that varied in intensity and prominence throughout the Western world
+"\nThe term ""classical music"" did not appear until the early 19th century, in an attempt to distinctly canonize the period from Johann Sebastian Bach to Ludwig van Beethoven as a golden age"
+" The earliest connection to ""classical music"" recorded by the Oxford English Dictionary is from about 1829"
+"European art music is largely distinguished from many other non-European classical and some popular musical forms by its system of staff notation, in use since about the 11th century"
+Catholic monks developed the first forms of modern European musical notation in order to standardize liturgy throughout the worldwide Church
+Western staff language is used by composers to indicate to the performer the pitches and durations for a piece of music
+It includes both sacred (religious) and secular material
+" In contrast to most popular styles that adopted the song (strophic) form or a derivation of this form, classical music has been noted for its development of highly sophisticated forms of instrumental music such as the symphony, concerto, fugue, sonata, and mixed vocal and instrumental styles such as opera, cantata, and mass"
+", 'Electronic music is music that employs electronic musical instruments, digital techniques, or circuitry-based music technology in its creation"
+It includes both music made using electronic and electromechanical means (electroacoustic music)
+" Pure electronic instruments depended entirely on technology-based sound generation, for instance using devices such as an electronic oscillator, theremin, or synthesizer"
+" Electromechanical instruments can have mechanical features such as strings, hammers, and electric elements including magnetic pickups, power amplifiers and loudspeakers"
+" Such electromechanical resources include the telharmonium, Hammond organ, electric piano and the electric guitar"
+The first electronic musical systems were developed at the end of the 19th century
+" During the 1920s and 1930s, a variety of electronic instruments were introduced and the first compositions featuring them were written"
+" By the 1940s, magnetic audio device allowed musicians to tape sounds and then modify them by changing the tape speed or direction, leading to the development of electroacoustic tape music in the 1940s, in Egypt and France"
+" Commission concrète, created in Paris in 1948, was based on editing together recorded fragments of natural and industrial sounds"
+Music produced solely from electronic materials was first produced in Germany in 1953
+Electronic music was also created in Japan and the United States beginning in the 1950s and Algorithmic composition with computers was first demonstrated in the same decade
+"\nDuring the 1960s, digital computer music was pioneered, innovation in live electronics took place, and Japanese electronic musical instruments began to influence the music industry"
+" In the early 1970s, Moog machines and Japanese drum machines helped popularize synthesized electronic music"
+" The 1970s also saw electronic music begin to have a significant influence on popular music, with the adoption of polyphonic synthesizers, electronic drums, drum machines and turntables, through the emergence of genres such as disco, krautrock, new wave, synth-pop, hip hop and EDM"
+" In the early 1980s mass produced digital tools, such as the Yamaha DX7, became popular and MIDI (Musical Instrument Digital Interface) was developed"
+" In the same decade, with a greater reliance on synthesizers and the adoption of programmable drum machines, electronic popular music came to the fore"
+" During the 1990s, with the proliferation of increasingly affordable music technology, electronic music production became an established part of popular culture"
+Contemporary electronic music includes many varieties and ranges from experimental art music to popular forms such as electronic dance music
+Pop electronic music is most recognizable in its 4/4 form and more connected with the mainstream than preceding forms which were popular in niche markets
+", 'A music video is a short film or video, of variable length, that integrates a song or album with pictures that is produced for promotional or artistic purposes"
+Modern music videos are primarily made and used as a marketing device intended to promote the sale of music recordings
+There are also cases where songs are used in tie-in marketing campaigns that allow them to become more than just a song
+Tie-ins and symbols can be used for toys or for food or other products
+"\nAlthough the origins of the music video date back to musical short pieces that first appeared in the 1920s, they again came into prominence in the 1980s when the channel MTV (originally ""Music Television"") based its format around the medium"
+" Prior to the 1980s, these kinds of videos were described by various sources including ""illustrated song,"" ""filmed insert,""  ""promotional (promo) film,"" ""promotional clip,"" ""promotional video,"" ""song video,"" ""song clip,"" or ""film clip"
+"""\nMusic videos use a wide spectrum of styles and contemporary video-making techniques, including animation, live-action, documentary, and non-narrative approaches such as abstract film"
+" Some music videos combine different styles with music, such as commercials and live-action"
+Combining these styles and techniques has become more popular due to the variety for the audience
+" Many music videos interpret images and scenes from the song\'s lyrics, while others take a more thematic approach"
+"  Other music videos may not have any meaning, being only a filmed version of the song\'s live concert performance"
+", 'Pop is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom"
+" The terms popular music and pop music are often used interchangeably, although the former describes all music that is popular and includes many disparate styles"
+" During the 1950s and 1960s, pop music encompassed rock and roll and the youth-oriented styles it influenced"
+" Rock and pop music remained roughly synonymous until the late 1960s, after which pop became associated with music that was more commercial, ephemeral, and accessible"
+"\nAlthough much of the music that appears on record charts is seen as pop music, the genre is distinguished from chart music"
+" Identifying factors usually include repeated choruses and hooks, short to medium-length songs written in a basic format (often the verse-chorus structure), and rhythms or tempos that can be easily danced to"
+" Much pop music also borrows elements from other styles such as rock, urban, dance, Latin, and country"
+", ""Folk music includes traditional folk music and the  contemporary genre that evolved from it during the 20th-century folk revival"
+Some types of folk composition may be called world music
+" Traditional folk music has been defined in several ways: as music transmitted orally, music with unknown composers, music that is played on traditional instruments, music about cultural or national identity, music that changes between generations (folk process), music associated with a people's folklore or music performed by custom over a long period of time"
+It has been contrasted with commercial and classical versions
+" The term originated in the 19th century, but folk music extends beyond that"
+"\nStarting in the mid-20th century, a new form of popular folk music evolved from traditional folk music"
+This process and period is called the (second) folk revival and reached a zenith in the 1960s
+This form of music is sometimes called contemporary folk music or folk revival music to distinguish it from earlier folk forms
+" Smaller, similar revivals have occurred elsewhere in the world at other times, but the term folk music has typically not been applied to the new music created during those revivals"
+" This type of folk music also includes fusion influences such as folk rock, folk metal, and others"
+" While contemporary folk art is a genre generally distinct from traditional folk music, in U"
+S
+" English it shares the same name, and it often shares the same musicians and venues as traditional folk music"
+""", 'A music genre is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions"
+" It is to be distinguished from musical form and musical style, although in practice these terms are sometimes used interchangeably"
+"Music can be divided into categories in varying ways, such as popular music and art music, or religious music and secular music"
+" The artistic nature of music means that these classifications are often subjective and controversial, and some genres may overlap"
+", 'Soul music (often referred to simply as soul) is a popular music genre that originated in the African American community throughout the United States in the 1950s and early 1960s"
+" It combines elements of African-American gospel music, rhythm and blues and jazz"
+" Soul music became popular for dancing and listening in the United States, where record labels such as Motown, Atlantic and Stax were influential during the Civil Rights Movement"
+" Soul also became popular around the world, directly influencing rock music and the music of Africa"

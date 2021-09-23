@@ -1,0 +1,1001 @@
+sentence,prediction
+"many North American Indian tribes, but especially those of the',",0
+"Ojibway Indians of northern Michigan, Wisconsin, and Minnesota.',",0
+"They were collected by Henry Rowe Schoolcraft, the reknowned',",0
+"Schoolcraft married Jane, O-bah-bahm-wawa-ge-zhe-go-qua (The',",0
+"fur trader, and O-shau-gus-coday-way-qua (The Woman of the Green',",0
+"Prairie), who was a daughter of Waub-o-jeeg (The White Fisher),',",0
+"who was Chief of the Ojibway tribe at La Pointe, Wisconsin.',",0
+"Jane and her mother are credited with having researched,',",0
+"authenticated, and compiled much of the material Schoolcraft',",0
+"included in his Algic Researches (1839) and a revision published',",0
+"in 1856 as The Myth of Hiawatha.  It was this latter revision',",1
+"that Longfellow used as the basis for The Song of Hiawatha.',",0
+"Longfellow began Hiawatha on June 25, 1854, he completed it',",0
+"soon as the poem was  published its popularity was assured.',",1
+"However, it also was severely criticized as a plagiary of the',",1
+"Finnish epic poem Kalevala.  Longfellow made no secret of the',",0
+"fact that he had used the meter of the Kalevala; but as for the',",0
+"legends, he openly gave credit to Schoolcraft in his notes to the',",1
+"I would add a personal note here.  My father's roots include',",0
+"Ojibway Indians: his mother, Margaret Caroline Davenport, was a',",0
+"daughter of Susan des Carreaux, O-gee-em-a-qua (The Chief Woman),',",0
+"Finally, my mother used to rock me to sleep reading portions of',",0
+"Hiawatha to me, especially:',",0
+"""Wah-wah-taysee, little fire-fly,',",0
+"Little, flitting, white-fire insect',",0
+"Little, dancing, white-fire creature,',",0
+"Light me with your little candle,',",0
+"Ere upon my bed I lay me,',",0
+"Ere in sleep I close my eyelids!""',",0
+"Should you ask me, whence these stories?',",0
+"Whence these legends and traditions,',",0
+"With the odors of the forest',",0
+"With the dew and damp of meadows,',",0
+"With the curling smoke of wigwams,',",0
+"With the rushing of great rivers,',",0
+"With their frequent repetitions,',",0
+"And their wild reverberations',",1
+"As of thunder in the mountains?',",0
+"I should answer, I should tell you,',",0
+"""From the forests and the prairies,',",0
+"From the great lakes of the Northland,',",0
+"From the land of the Ojibways,',",0
+"From the land of the Dacotahs,',",0
+"From the mountains, moors, and fen-lands',",0
+"Where the heron, the Shuh-shuh-gah,',",0
+"Feeds among the reeds and rushes.',",0
+"I repeat them as I heard them',",0
+"From the lips of Nawadaha,',",0
+"The musician, the sweet singer.""',",0
+"Should you ask where Nawadaha',",0
+"Found these songs so wild and wayward,',",1
+"Found these legends and traditions,',",0
+"I should answer, I should tell you,',",0
+"""In the bird's-nests of the forest,',",0
+"In the lodges of the beaver,',",0
+"In the hoofprint of the bison,',",0
+"In the eyry of the eagle!',",0
+"""All the wild-fowl sang them to him,',",0
+"In the moorlands and the fen-lands,',",0
+"In the melancholy marshes;',",0
+"Chetowaik, the plover, sang them,',",0
+"Mahng, the loon, the wild-goose, Wawa,',",0
+"The blue heron, the Shuh-shuh-gah,',",0
+"And the grouse, the Mushkodasa!""',",0
+"If still further you should ask me,',",0
+"Tell us of this Nawadaha,""',",0
+"I should answer your inquiries',",0
+"Straightway in such words as follow.',",1
+"""In the vale of Tawasentha,',",0
+"In the green and silent valley,',",0
+"By the pleasant water-courses,',",0
+"Dwelt the singer Nawadaha.',",0
+"Round about the Indian village',",0
+"Spread the meadows and the corn-fields,',",0
+"And beyond them stood the forest,',",0
+"Stood the groves of singing pine-trees,',",0
+"Green in Summer, white in Winter,',",0
+"Ever sighing, ever singing.',",0
+"""And the pleasant water-courses,',",0
+"You could trace them through the valley,',",0
+"By the rushing in the Spring-time,',",1
+"By the alders in the Summer,',",0
+"By the white fog in the Autumn,',",0
+"By the black line in the Winter;',",0
+"And beside them dwelt the singer,',",0
+"In the vale of Tawasentha,',",0
+"In the green and silent valley.',",0
+"""There he sang of Hiawatha,',",0
+"Sang his wondrous birth and being,',",1
+"How he prayed and how be fasted,',",0
+"How he lived, and toiled, and suffered,',",0
+"That the tribes of men might prosper,',",1
+"That he might advance his people!""',",1
+"Ye who love the haunts of Nature,',",0
+"Love the sunshine of the meadow,',",0
+"Love the shadow of the forest,',",0
+"Love the wind among the branches,',",0
+"And the rain-shower and the snow-storm,',",0
+"And the rushing of great rivers',",0
+"Through their palisades of pine-trees,',",0
+"And the thunder in the mountains,',",0
+"Whose innumerable echoes',",0
+"Flap like eagles in their eyries;--',",0
+"Listen to these wild traditions,',",0
+"To this Song of Hiawatha!',",0
+"Ye who love a nation's legends,',",1
+"Love the ballads of a people,',",0
+"That like voices from afar off',",0
+"Call to us to pause and listen,',",0
+"Speak in tones so plain and childlike,',",0
+"Scarcely can the ear distinguish',",0
+"Whether they are sung or spoken;--',",0
+"Listen to this Indian Legend,',",0
+"To this Song of Hiawatha!',",0
+"Ye whose hearts are fresh and simple,',",0
+"Who have faith in God and Nature,',",0
+"Who believe that in all ages',",0
+"Every human heart is human,',",0
+"That in even savage bosoms',",1
+"There are longings, yearnings, strivings',",1
+"For the good they comprehend not,',",0
+"That the feeble hands and helpless,',",0
+"Groping blindly in the darkness,',",0
+"Touch God's right hand in that darkness',",0
+"And are lifted up and strengthened;--',",0
+"Listen to this simple story,',",0
+"To this Song of Hiawatha!',",0
+"Ye, who sometimes, in your rambles',",0
+"Through the green lanes of the country,',",0
+"Where the tangled barberry-bushes',",0
+"Hang their tufts of crimson berries',",0
+"Over stone walls gray with mosses,',",0
+"Pause by some neglected graveyard,',",0
+"For a while to muse, and ponder',",0
+"On a half-effaced inscription,',",0
+"Written with little skill of song-craft,',",0
+"Homely phrases, but each letter',",0
+"Full of hope and yet of heart-break,',",1
+"Full of all the tender pathos',",1
+"Stay and read this rude inscription,',",0
+"Read this Song of Hiawatha!',",0
+"On the great Red Pipe-stone Quarry,',",0
+"Gitche Manito, the mighty,',",0
+"He the Master of Life, descending,',",0
+"On the red crags of the quarry',",0
+"Stood erect, and called the nations,',",0
+"Called the tribes of men together.',",0
+"From his footprints flowed a river,',",0
+"Leaped into the light of morning,',",1
+"O'er the precipice plunging downward',",1
+"Gleamed like Ishkoodah, the comet.',",0
+"And the Spirit, stooping earthward,',",0
+"With his finger on the meadow',",0
+"Traced a winding pathway for it,',",0
+"Saying to it, ""Run in this way!""',",0
+"From the red stone of the quarry',",0
+"With his hand he broke a fragment,',",0
+"Moulded it into a pipe-head,',",0
+"Shaped and fashioned it with figures;',",0
+"From the margin of the river',",0
+"Took a long reed for a pipe-stem,',",0
+"With its dark green leaves upon it;',",0
+"Filled the pipe with bark of willow,',",0
+"With the bark of the red willow;',",0
+"Breathed upon the neighboring forest,',",0
+"Made its great boughs chafe together,',",0
+"Till in flame they burst and kindled;',",0
+"And erect upon the mountains,',",0
+"Gitche Manito, the mighty,',",0
+"Smoked the calumet, the Peace-Pipe,',",0
+"As a signal to the nations.',",1
+"And the smoke rose slowly, slowly,',",0
+"Through the tranquil air of morning,',",0
+"First a single line of darkness,',",0
+"Then a denser, bluer vapor,',",0
+"Then a snow-white cloud unfolding,',",0
+"Like the tree-tops of the forest,',",0
+"Ever rising, rising, rising,',",0
+"Till it touched the top of heaven,',",0
+"Till it broke against the heaven,',",0
+"And rolled outward all around it.',",0
+"From the groves of Tuscaloosa,',",0
+"From the far-off Rocky Mountains,',",0
+"From the Northern lakes and rivers',",0
+"All the tribes beheld the signal,',",0
+"Saw the distant smoke ascending,',",0
+"And the Prophets of the nations',",0
+"By the signal of the Peace-Pipe,',",0
+"Bending like a wand of willow,',",0
+"Waving like a hand that beckons,',",0
+"Gitche Manito, the mighty,',",0
+"Calls the tribes of men together,',",0
+"Calls the warriors to his council!""',",0
+"Down the rivers, o'er the prairies,',",0
+"Came the warriors of the nations,',",0
+"All the warriors drawn together',",0
+"By the signal of the Peace-Pipe,',",0
+"To the great Red Pipe-stone Quarry,',",0
+"And they stood there on the meadow,',",0
+"With their weapons and their war-gear,',",0
+"Painted like the leaves of Autumn,',",0
+"Painted like the sky of morning,',",0
+"Wildly glaring at each other;',",0
+"In their faces stern defiance,',",0
+"In their hearts the feuds of ages,',",1
+"The hereditary hatred,',",1
+"The ancestral thirst of vengeance.',",1
+"Gitche Manito, the mighty,',",0
+"The creator of the nations,',",0
+"Looked upon them with compassion,',",0
+"With paternal love and pity;',",0
+"Looked upon their wrath and wrangling',",1
+"But as quarrels among children,',",0
+"But as feuds and fights of children!',",1
+"Over them he stretched his right hand,',",0
+"To subdue their stubborn natures,',",1
+"To allay their thirst and fever,',",0
+"By the shadow of his right hand;',",0
+"Spake to them with voice majestic',",0
+"As the sound of far-off waters,',",0
+"Falling into deep abysses,',",1
+"Warning, chiding, spake in this wise:',",0
+"""O my children! my poor children!',",0
+"Listen to the words of wisdom,',",0
+"Listen to the words of warning,',",0
+"From the lips of the Great Spirit,',",1
+"From the Master of Life, who made you!',",0
+"""I have given you lands to hunt in,',",0
+"I have given you streams to fish in,',",0
+"I have given you bear and bison,',",0
+"I have given you roe and reindeer,',",0
+"I have given you brant and beaver,',",0
+"Filled the marshes full of wild-fowl,',",0
+"Filled the rivers full of fishes:',",0
+"Why then are you not contented?',",0
+"Why then will you hunt each other?',",0
+"""I am weary of your quarrels,',",1
+"Weary of your wars and bloodshed,',",1
+"Weary of your prayers for vengeance,',",1
+"Of your wranglings and dissensions;',",1
+"All your strength is in your union,',",1
+"All your danger is in discord;',",1
+"Therefore be at peace henceforward,',",0
+"And as brothers live together.',",0
+"""I will send a Prophet to you,',",0
+"A Deliverer of the nations,',",0
+"Who shall guide you and shall teach you,',",0
+"Who shall toil and suffer with you.',",0
+"If you listen to his counsels,',",0
+"You will multiply and prosper;',",1
+"If his warnings pass unheeded,',",1
+"You will fade away and perish!',",0
+"""Bathe now in the stream before you,',",0
+"Wash the war-paint from your faces,',",0
+"Wash the blood-stains from your fingers,',",0
+"Bury your war-clubs and your weapons,',",0
+"Break the red stone from this quarry,',",0
+"Mould and make it into Peace-Pipes,',",0
+"Take the reeds that grow beside you,',",0
+"Deck them with your brightest feathers,',",0
+"Smoke the calumet together,',",0
+"And as brothers live henceforward!""',",1
+"Then upon the ground the warriors',",0
+"Threw their cloaks and shirts of deer-skin,',",0
+"Threw their weapons and their war-gear,',",0
+"Leaped into the rushing river,',",0
+"Washed the war-paint from their faces.',",0
+"Clear above them flowed the water,',",0
+"Clear and limpid from the footprints',",0
+"Of the Master of Life descending;',",0
+"Dark below them flowed the water,',",0
+"Soiled and stained with streaks of crimson,',",0
+"As if blood were mingled with it!',",0
+"From the river came the warriors,',",0
+"Clean and washed from all their war-paint;',",0
+"On the banks their clubs they buried,',",0
+"Buried all their warlike weapons.',",0
+"Gitche Manito, the mighty,',",0
+"The Great Spirit, the creator,',",0
+"Smiled upon his helpless children!',",0
+"And in silence all the warriors',",1
+"Broke the red stone of the quarry,',",0
+"Smoothed and formed it into Peace-Pipes,',",0
+"Broke the long reeds by the river,',",0
+"Decked them with their brightest feathers,',",0
+"And departed each one homeward,',",0
+"While the Master of Life, ascending,',",0
+"Through the opening of cloud-curtains,',",0
+"Through the doorways of the heaven,',",0
+"Vanished from before their faces,',",0
+"In the smoke that rolled around him,',",0
+"Cried the warriors, cried the old men,',",0
+"When he came in triumph homeward',",0
+"With the sacred Belt of Wampum,',",0
+"From the regions of the North-Wind,',",0
+"From the kingdom of Wabasso,',",0
+"From the land of the White Rabbit.',",0
+"He had stolen the Belt of Wampum',",0
+"From the neck of Mishe-Mokwa,',",0
+"From the Great Bear of the mountains,',",0
+"From the terror of the nations,',",1
+"As he lay asleep and cumbrous',",0
+"On the summit of the mountains,',",0
+"Like a rock with mosses on it,',",0
+"Spotted brown and gray with mosses.',",0
+"Silently he stole upon him',",1
+"Till the red nails of the monster',",0
+"Almost touched him, almost scared him,',",0
+"Till the hot breath of his nostrils',",0
+"Warmed the hands of Mudjekeewis,',",0
+"As he drew the Belt of Wampum',",0
+"Over the round ears, that heard not,',",0
+"Over the small eyes, that saw not,',",0
+"Over the long nose and nostrils,',",0
+"The black muffle of the nostrils,',",0
+"Out of which the heavy breathing',",0
+"Warmed the hands of Mudjekeewis.',",1
+"Then he swung aloft his war-club,',",0
+"Shouted loud and long his war-cry,',",0
+"Smote the mighty Mishe-Mokwa',",0
+"In the middle of the forehead,',",0
+"Right between the eyes he smote him.',",1
+"With the heavy blow bewildered,',",0
+"Rose the Great Bear of the mountains;',",0
+"But his knees beneath him trembled,',",0
+"And he whimpered like a woman,',",0
+"As he reeled and staggered forward,',",0
+"As he sat upon his haunches;',",0
+"And the mighty Mudjekeewis,',",0
+"Standing fearlessly before him,',",0
+"Taunted him in loud derision,',",1
+"Spake disdainfully in this wise:',",0
+"""Hark you, Bear! you are a coward;',",0
+"And no Brave, as you pretended;',",0
+"Else you would not cry and whimper',",0
+"Like a miserable woman!',",0
+"Bear! you know our tribes are hostile,',",0
+"Long have been at war together;',",0
+"Now you find that we are strongest,',",0
+"You go sneaking in the forest,',",0
+"You go hiding in the mountains!',",0
+"Had you conquered me in battle',",0
+"Not a groan would I have uttered;',",0
+"But you, Bear! sit here and whimper,',",0
+"And disgrace your tribe by crying,',",0
+"Like a wretched Shaugodaya,',",0
+"Like a cowardly old woman!""',",0
+"Then again he raised his war-club,',",0
+"Smote again the Mishe-Mokwa',",0
+"In the middle of his forehead,',",0
+"Broke his skull, as ice is broken',",0
+"When one goes to fish in Winter.',",0
+"Thus was slain the Mishe-Mokwa,',",0
+"He the Great Bear of the mountains,',",0
+"He the terror of the nations.',",1
+"With a shout exclaimed the people,',",0
+"Henceforth he shall be the West-Wind,',",0
+"And hereafter and forever',",0
+"Shall he hold supreme dominion',",1
+"Over all the winds of heaven.',",0
+"Call him no more Mudjekeewis,',",0
+"Thus was Mudjekeewis chosen',",1
+"For himself he kept the West-Wind,',",0
+"Gave the others to his children;',",0
+"Unto Wabun gave the East-Wind,',",0
+"And the North-Wind, wild and cruel,',",0
+"To the fierce Kabibonokka.',",0
+"Young and beautiful was Wabun;',",0
+"He it was who brought the morning,',",0
+"He it was whose silver arrows',",0
+"Chased the dark o'er hill and valley;',",0
+"He it was whose cheeks were painted',",0
+"With the brightest streaks of crimson,',",0
+"And whose voice awoke the village,',",0
+"Called the deer, and called the hunter.',",0
+"Though the birds sang gayly to him,',",0
+"Though the wild-flowers of the meadow',",0
+"Filled the air with odors for him;',",0
+"Though the forests and the rivers',",0
+"Sang and shouted at his coming,',",0
+"Still his heart was sad within him,',",0
+"For he was alone in heaven.',",0
+"But one morning, gazing earthward,',",0
+"While the village still was sleeping,',",0
+"And the fog lay on the river,',",0
+"Like a ghost, that goes at sunrise,',",0
+"He beheld a maiden walking',",0
+"All alone upon a meadow,',",0
+"Gathering water-flags and rushes',",0
+"By a river in the meadow.',",0
+"Every morning, gazing earthward,',",0
+"Still the first thing he beheld there',",0
+"Was her blue eyes looking at him,',",0
+"Two blue lakes among the rushes.',",0
+"And he loved the lonely maiden,',",0
+"Who thus waited for his coming;',",0
+"For they both were solitary,',",0
+"She on earth and he in heaven.',",0
+"And he wooed her with caresses,',",0
+"Wooed her with his smile of sunshine,',",1
+"With his flattering words he wooed her,',",1
+"With his sighing and his singing,',",0
+"Gentlest whispers in the branches,',",0
+"Softest music, sweetest odors,',",0
+"Till he drew her to his bosom,',",0
+"Folded in his robes of crimson,',",0
+"Till into a star he changed her,',",0
+"Trembling still upon his bosom;',",0
+"And forever in the heavens',",0
+"They are seen together walking,',",0
+"But the fierce Kabibonokka',",0
+"Had his dwelling among icebergs,',",1
+"In the everlasting snow-drifts,',",0
+"In the kingdom of Wabasso,',",0
+"In the land of the White Rabbit.',",0
+"He it was whose hand in Autumn',",0
+"Painted all the trees with scarlet,',",0
+"Stained the leaves with red and yellow;',",0
+"He it was who sent the snow-flake,',",0
+"Sifting, hissing through the forest,',",0
+"Froze the ponds, the lakes, the rivers,',",0
+"Drove the loon and sea-gull southward,',",0
+"Drove the cormorant and curlew',",0
+"To their nests of sedge and sea-tang',",0
+"In the realms of Shawondasee.',",0
+"Once the fierce Kabibonokka',",0
+"Issued from his lodge of snow-drifts',",0
+"From his home among the icebergs,',",0
+"And his hair, with snow besprinkled,',",0
+"Streamed behind him like a river,',",0
+"Like a black and wintry river,',",0
+"As he howled and hurried southward,',",0
+"Over frozen lakes and moorlands.',",0
+"There among the reeds and rushes',",0
+"Found he Shingebis, the diver,',",0
+"Trailing strings of fish behind him,',",0
+"O'er the frozen fens and moorlands,',",0
+"Lingering still among the moorlands,',",0
+"Though his tribe had long departed',",1
+"To the land of Shawondasee.',",0
+"Cried the fierce Kabibonokka,',",0
+"""Who is this that dares to brave me?',",0
+"Dares to stay in my dominions,',",0
+"When the Wawa has departed,',",0
+"When the wild-goose has gone southward,',",0
+"And the heron, the Shuh-shuh-gah,',",0
+"Long ago departed southward?',",0
+"I will go into his wigwam,',",0
+"I will put his smouldering fire out!""',",0
+"And at night Kabibonokka,',",0
+"To the lodge came wild and wailing,',",0
+"Heaped the snow in drifts about it,',",0
+"Shouted down into the smoke-flue,',",0
+"Shook the lodge-poles in his fury,',",1
+"Flapped the curtain of the door-way.',",0
+"Shingebis, the diver, feared not,',",0
+"Shingebis, the diver, cared not;',",0
+"Four great logs had he for firewood,',",0
+"One for each moon of the winter,',",0
+"And for food the fishes served him.',",0
+"By his blazing fire he sat there,',",0
+"Warm and merry, eating, laughing,',",0
+"You are but my fellow-mortal!""',",0
+"Then Kabibonokka entered,',",0
+"And though Shingebis, the diver,',",0
+"Felt his presence by the coldness,',",0
+"Felt his icy breath upon him,',",0
+"Still he did not cease his singing,',",0
+"Still he did not leave his laughing,',",0
+"Only turned the log a little,',",0
+"Only made the fire burn brighter,',",1
+"Made the sparks fly up the smoke-flue.',",0
+"From Kabibonokka's forehead,',",0
+"From his snow-besprinkled tresses,',",0
+"Drops of sweat fell fast and heavy,',",0
+"Making dints upon the ashes,',",0
+"As along the eaves of lodges,',",0
+"As from drooping boughs of hemlock,',",0
+"Drips the melting snow in spring-time,',",0
+"Making hollows in the snow-drifts.',",0
+"Till at last he rose defeated,',",1
+"Could not bear the heat and laughter,',",1
+"Could not bear the merry singing,',",0
+"But rushed headlong through the door-way,',",0
+"Stamped upon the crusted snow-drifts,',",0
+"Stamped upon the lakes and rivers,',",0
+"Made the snow upon them harder,',",0
+"Made the ice upon them thicker,',",0
+"Challenged Shingebis, the diver,',",0
+"To come forth and wrestle with him,',",0
+"To come forth and wrestle naked',",0
+"On the frozen fens and moorlands.',",0
+"Forth went Shingebis, the diver,',",0
+"Wrestled all night with the North-Wind,',",0
+"Wrestled naked on the moorlands',",0
+"With the fierce Kabibonokka,',",0
+"Till his panting breath grew fainter,',",0
+"Till his frozen grasp grew feebler,',",1
+"Till he reeled and staggered backward,',",0
+"And retreated, baffled, beaten,',",0
+"To the kingdom of Wabasso,',",0
+"To the land of the White Rabbit,',",0
+"Hearing still the gusty laughter,',",0
+"Hearing Shingebis, the diver,',",0
+"You are but my fellow-mortal!""',",0
+"Shawondasee, fat and lazy,',",0
+"Had his dwelling far to southward,',",0
+"In the drowsy, dreamy sunshine,',",0
+"In the never-ending Summer.',",1
+"He it was who sent the wood-birds,',",0
+"Sent the robin, the Opechee,',",0
+"Sent the bluebird, the Owaissa,',",0
+"Sent the Shawshaw, sent the swallow,',",0
+"Sent the wild-goose, Wawa, northward,',",0
+"Sent the melons and tobacco,',",0
+"And the grapes in purple clusters.',",0
+"From his pipe the smoke ascending',",0
+"Filled the sky with haze and vapor,',",1
+"Filled the air with dreamy softness,',",1
+"Gave a twinkle to the water,',",0
+"Touched the rugged hills with smoothness,',",0
+"Brought the tender Indian Summer',",0
+"To the melancholy north-land,',",0
+"In the dreary Moon of Snow-shoes.',",0
+"Listless, careless Shawondasee!',",0
+"In his life he had one shadow,',",0
+"In his heart one sorrow had he.',",0
+"Once, as he was gazing northward,',",0
+"Far away upon a prairie',",0
+"He beheld a maiden standing,',",0
+"Saw a tall and slender maiden',",0
+"All alone upon a prairie;',",0
+"Brightest green were all her garments,',",0
+"And her hair was like the sunshine.',",0
+"Day by day he gazed upon her,',",0
+"Day by day he sighed with passion,',",1
+"Day by day his heart within him',",1
+"Grew more hot with love and longing',",1
+"For the maid with yellow tresses.',",0
+"But he was too fat and lazy',",0
+"To bestir himself and woo her.',",0
+"Yes, too indolent and easy',",1
+"To pursue her and persuade her;',",0
+"So he only gazed upon her,',",0
+"Only sat and sighed with passion',",0
+"For the maiden of the prairie.',",0
+"Till one morning, looking northward,',",0
+"He beheld her yellow tresses',",0
+"Changed and covered o'er with whiteness,',",0
+"Covered as with whitest snow-flakes.',",0
+"""Ah! my brother from the North-land,',",0
+"From the kingdom of Wabasso,',",0
+"From the land of the White Rabbit!',",0
+"You have stolen the maiden from me,',",0
+"You have laid your hand upon her,',",0
+"You have wooed and won my maiden,',",0
+"With your stories of the North-land!""',",0
+"Thus the wretched Shawondasee',",0
+"Breathed into the air his sorrow;',",0
+"And the South-Wind o'er the prairie',",0
+"Wandered warm with sighs of passion,',",1
+"With the sighs of Shawondasee,',",0
+"Till the air seemed full of snow-flakes,',",0
+"Full of thistle-down the prairie,',",0
+"And the maid with hair like sunshine',",0
+"Vanished from his sight forever;',",0
+"Never more did Shawondasee',",0
+"See the maid with yellow tresses!',",0
+"Poor, deluded Shawondasee!',",0
+"'T was no woman that you gazed at,',",0
+"'T was no maiden that you sighed for,',",0
+"'T was the prairie dandelion',",0
+"That through all the dreamy Summer',",0
+"You had gazed at with such longing,',",0
+"You had sighed for with such passion,',",0
+"And had puffed away forever,',",0
+"Blown into the air with sighing.',",0
+"Ah! deluded Shawondasee!',",0
+"Thus the Four Winds were divided',",0
+"Thus the sons of Mudjekeewis',",0
+"Had their stations in the heavens,',",0
+"At the corners of the heavens;',",0
+"For himself the West-Wind only',",0
+"Kept the mighty Mudjekeewis.',",0
+"Hiawatha's Childhood',",0
+"Downward through the evening twilight,',",0
+"In the days that are forgotten,',",1
+"In the unremembered ages,',",1
+"From the full moon fell Nokomis,',",0
+"Fell the beautiful Nokomis,',",0
+"She a wife, but not a mother.',",0
+"She was sporting with her women,',",0
+"Swinging in a swing of grape-vines,',",0
+"When her rival the rejected,',",1
+"Full of jealousy and hatred,',",1
+"Cut the leafy swing asunder,',",0
+"Cut in twain the twisted grape-vines,',",0
+"And Nokomis fell affrighted',",0
+"Downward through the evening twilight,',",0
+"On the Muskoday, the meadow,',",0
+"On the prairie full of blossoms.',",0
+"""See! a star falls!"" said the people;',",0
+"""From the sky a star is falling!""',",0
+"There among the ferns and mosses,',",0
+"There among the prairie lilies,',",0
+"On the Muskoday, the meadow,',",0
+"In the moonlight and the starlight,',",0
+"Fair Nokomis bore a daughter.',",0
+"And she called her name Wenonah,',",0
+"As the first-born of her daughters.',",0
+"And the daughter of Nokomis',",0
+"Grew up like the prairie lilies,',",0
+"Grew a tall and slender maiden,',",0
+"With the beauty of the moonlight,',",0
+"With the beauty of the starlight.',",0
+"And Nokomis warned her often,',",0
+"Saying oft, and oft repeating,',",0
+"""Oh, beware of Mudjekeewis,',",0
+"Listen not to what he tells you;',",0
+"Lie not down upon the meadow,',",0
+"Stoop not down among the lilies,',",0
+"Lest the West-Wind come and harm you!""',",0
+"But she heeded not the warning,',",0
+"Heeded not those words of wisdom,',",1
+"And the West-Wind came at evening,',",0
+"Walking lightly o'er the prairie,',",0
+"Whispering to the leaves and blossoms,',",0
+"Bending low the flowers and grasses,',",0
+"Found the beautiful Wenonah,',",0
+"Lying there among the lilies,',",0
+"Wooed her with his words of sweetness,',",1
+"Wooed her with his soft caresses,',",1
+"Till she bore a son in sorrow,',",0
+"Bore a son of love and sorrow.',",0
+"Thus was born my Hiawatha,',",0
+"Thus was born the child of wonder;',",0
+"But the daughter of Nokomis,',",0
+"Hiawatha's gentle mother,',",0
+"In her anguish died deserted',",1
+"By the West-Wind, false and faithless,',",0
+"By the heartless Mudjekeewis.',",1
+"For her daughter long and loudly',",0
+"Wailed and wept the sad Nokomis;',",0
+"""Oh that I were dead!"" she murmured,',",0
+"""Oh that I were dead, as thou art!',",0
+"No more work, and no more weeping,',",0
+"By the shores of Gitche Gumee,',",0
+"By the shining Big-Sea-Water,',",0
+"Stood the wigwam of Nokomis,',",0
+"Dark behind it rose the forest,',",0
+"Rose the black and gloomy pine-trees,',",0
+"Rose the firs with cones upon them;',",0
+"Bright before it beat the water,',",0
+"Beat the clear and sunny water,',",0
+"Beat the shining Big-Sea-Water.',",0
+"There the wrinkled old Nokomis',",0
+"Nursed the little Hiawatha,',",0
+"Rocked him in his linden cradle,',",0
+"Bedded soft in moss and rushes,',",0
+"Safely bound with reindeer sinews;',",0
+"Stilled his fretful wail by saying,',",1
+"""Hush! the Naked Bear will hear thee!""',",0
+"Lulled him into slumber, singing,',",1
+"""Ewa-yea! my little owlet!',",0
+"Who is this, that lights the wigwam?',",0
+"With his great eyes lights the wigwam?',",0
+"Ewa-yea! my little owlet!""',",0
+"Many things Nokomis taught him',",0
+"Of the stars that shine in heaven;',",0
+"Showed him Ishkoodah, the comet,',",0
+"Ishkoodah, with fiery tresses;',",0
+"Showed the Death-Dance of the spirits,',",0
+"Warriors with their plumes and war-clubs,',",0
+"Flaring far away to northward',",0
+"In the frosty nights of Winter;',",0
+"Showed the broad white road in heaven,',",0
+"Pathway of the ghosts, the shadows,',",0
+"Running straight across the heavens,',",0
+"Crowded with the ghosts, the shadows.',",0
+"At the door on summer evenings',",0
+"Sat the little Hiawatha;',",0
+"Heard the whispering of the pine-trees,',",0
+"Heard the lapping of the waters,',",0
+"Sounds of music, words of wonder;',",0
+"""Minne-wawa!"" said the Pine-trees,',",0
+"""Mudway-aushka!"" said the water.',",0
+"Saw the fire-fly, Wah-wah-taysee,',",0
+"Flitting through the dusk of evening,',",0
+"With the twinkle of its candle',",0
+"Lighting up the brakes and bushes,',",0
+"And he sang the song of children,',",0
+"Sang the song Nokomis taught him:',",0
+"""Wah-wah-taysee, little fire-fly,',",0
+"Little, flitting, white-fire insect,',",0
+"Little, dancing, white-fire creature,',",0
+"Light me with your little candle,',",0
+"Ere upon my bed I lay me,',",0
+"Ere in sleep I close my eyelids!""',",0
+"Saw the moon rise from the water',",0
+"Rippling, rounding from the water,',",0
+"Saw the flecks and shadows on it,',",0
+"Whispered, ""What is that, Nokomis?""',",0
+"And the good Nokomis answered:',",0
+"""Once a warrior, very angry,',",0
+"Seized his grandmother, and threw her',",0
+"Up into the sky at midnight;',",0
+"Right against the moon he threw her;',",0
+"'T is her body that you see there.""',",0
+"Saw the rainbow in the heaven,',",0
+"In the eastern sky, the rainbow,',",0
+"Whispered, ""What is that, Nokomis?""',",0
+"And the good Nokomis answered:',",0
+"""'T is the heaven of flowers you see there;',",0
+"All the wild-flowers of the forest,',",0
+"All the lilies of the prairie,',",0
+"When on earth they fade and perish,',",0
+"Blossom in that heaven above us.""',",0
+"When he heard the owls at midnight,',",0
+"Hooting, laughing in the forest,',",0
+"""What is that?"" he cried in terror,',",0
+"""What is that,"" he said, ""Nokomis?""',",0
+"And the good Nokomis answered:',",0
+"""That is but the owl and owlet,',",0
+"Talking in their native language,',",0
+"Talking, scolding at each other.""',",0
+"Then the little Hiawatha',",0
+"Learned of every bird its language,',",0
+"Learned their names and all their secrets,',",0
+"How they built their nests in Summer,',",0
+"Where they hid themselves in Winter,',",0
+"Talked with them whene'er he met them,',",0
+"Called them ""Hiawatha's Chickens.""',",0
+"Of all beasts he learned the language,',",0
+"Learned their names and all their secrets,',",0
+"How the beavers built their lodges,',",0
+"Where the squirrels hid their acorns,',",0
+"How the reindeer ran so swiftly,',",0
+"Why the rabbit was so timid,',",0
+"Talked with them whene'er he met them,',",0
+"Called them ""Hiawatha's Brothers.""',",0
+"Then Iagoo, the great boaster,',",0
+"He the marvellous story-teller,',",0
+"He the traveller and the talker,',",0
+"He the friend of old Nokomis,',",0
+"From a branch of ash he made it,',",0
+"From an oak-bough made the arrows,',",0
+"Tipped with flint, and winged with feathers,',",0
+"And the cord he made of deer-skin.',",0
+"Then he said to Hiawatha:',",0
+"""Go, my son, into the forest,',",0
+"Where the red deer herd together,',",0
+"Kill for us a famous roebuck,',",0
+"Kill for us a deer with antlers!""',",0
+"Forth into the forest straightway',",0
+"All alone walked Hiawatha',",0
+"Proudly, with his bow and arrows;',",0
+"And the birds sang round him, o'er him,',",0
+"""Do not shoot us, Hiawatha!""',",0
+"Sang the robin, the Opechee,',",0
+"Sang the bluebird, the Owaissa,',",0
+"""Do not shoot us, Hiawatha!""',",0
+"Up the oak-tree, close beside him,',",0
+"Sprang the squirrel, Adjidaumo,',",0
+"In and out among the branches,',",0
+"Coughed and chattered from the oak-tree,',",0
+"Laughed, and said between his laughing,',",0
+"""Do not shoot me, Hiawatha!""',",0
+"And the rabbit from his pathway',",0
+"Leaped aside, and at a distance',",0
+"Sat erect upon his haunches,',",0
+"Half in fear and half in frolic,',",1
+"Saying to the little hunter,',",0
+"""Do not shoot me, Hiawatha!""',",0
+"But he heeded not, nor heard them,',",0
+"For his thoughts were with the red deer;',",0
+"On their tracks his eyes were fastened,',",0
+"Leading downward to the river,',",0
+"To the ford across the river,',",0
+"And as one in slumber walked he.',",0
+"Hidden in the alder-bushes,',",0
+"There he waited till the deer came,',",0
+"Till he saw two antlers lifted,',",0
+"Saw two eyes look from the thicket,',",0
+"Saw two nostrils point to windward,',",0
+"And a deer came down the pathway,',",0
+"Flecked with leafy light and shadow.',",0
+"And his heart within him fluttered,',",1
+"Trembled like the leaves above him,',",0
+"Like the birch-leaf palpitated,',",0
+"As the deer came down the pathway.',",0
+"Then, upon one knee uprising,',",0
+"Hiawatha aimed an arrow;',",0
+"Scarce a twig moved with his motion,',",0
+"Scarce a leaf was stirred or rustled,',",0
+"But the wary roebuck started,',",0
+"Stamped with all his hoofs together,',",0
+"Listened with one foot uplifted,',",0
+"Leaped as if to meet the arrow;',",0
+"Ah! the singing, fatal arrow,',",0
+"Like a wasp it buzzed and stung him!',",0
+"Dead he lay there in the forest,',",0
+"By the ford across the river;',",0
+"Beat his timid heart no longer,',",1
+"But the heart of Hiawatha',",1
+"Throbbed and shouted and exulted,',",0
+"As he bore the red deer homeward,',",0
+"Hailed his coming with applauses.',",1
+"From the red deer's hide Nokomis',",0
+"Made a cloak for Hiawatha,',",0
+"From the red deer's flesh Nokomis',",0
+"Made a banquet to his honor.',",0
+"All the village came and feasted,',",0
+"All the guests praised Hiawatha,',",0
+"Called him Strong-Heart, Soan-ge-taha!',",0
+"Called him Loon-Heart, Mahn-go-taysee!',",0
+"Out of childhood into manhood',",1
+"Now had grown my Hiawatha,',",0
+"Skilled in all the craft of hunters,',",0
+"Learned in all the lore of old men,',",0
+"In all youthful sports and pastimes,',",0
+"In all manly arts and labors.',",0
+"Swift of foot was Hiawatha;',",0
+"He could shoot an arrow from him,',",0
+"And run forward with such fleetness,',",1
+"That the arrow fell behind him!',",0
+"He could shoot ten arrows upward,',",0
+"Shoot them with such strength and swiftness,',",0
+"That the tenth had left the bow-string',",0
+"Ere the first to earth had fallen!',",0
+"He had mittens, Minjekahwun,',",0
+"Magic mittens made of deer-skin;',",0
+"When upon his hands he wore them,',",0
+"He could smite the rocks asunder,',",0
+"He could grind them into powder.',",0
+"He had moccasins enchanted,',",0
+"Magic moccasins of deer-skin;',",0
+"When he bound them round his ankles,',",0
+"When upon his feet he tied them,',",0
+"At each stride a mile he measured!',",0
+"Much he questioned old Nokomis',",1
+"Of his father Mudjekeewis;',",0
+"Learned from her the fatal secret',",1
+"Of the beauty of his mother,',",0
+"Of the falsehood of his father;',",0
+"And his heart was hot within him,',",0
+"Like a living coal his heart was.',",1
+"Then he said to old Nokomis,',",0
+"""I will go to Mudjekeewis,',",0
+"See how fares it with my father,',",0
+"At the doorways of the West-Wind,',",0
+"At the portals of the Sunset!""',",0
+"From his lodge went Hiawatha,',",0
+"Dressed for travel, armed for hunting;',",0
+"Dressed in deer-skin shirt and leggings,',",0
+"Richly wrought with quills and wampum;',",0
+"On his head his eagle-feathers,',",0
+"Round his waist his belt of wampum,',",0
+"In his hand his bow of ash-wood,',",0
+"Strung with sinews of the reindeer;',",0
+"In his quiver oaken arrows,',",0
+"Tipped with jasper, winged with feathers;',",0
+"With his mittens, Minjekahwun,',",0
+"With his moccasins enchanted.',",0
+"Warning said the old Nokomis,',",0
+"""Go not forth, O Hiawatha!',",0
+"To the kingdom of the West-Wind,',",0
+"To the realms of Mudjekeewis,',",0
+"Lest he harm you with his magic,',",0
+"Lest he kill you with his cunning!""',",0
+"But the fearless Hiawatha',",0
+"Heeded not her woman's warning;',",0
+"Forth he strode into the forest,',",0
+"At each stride a mile he measured;',",0
+"Lurid seemed the sky above him,',",1
+"Lurid seemed the earth beneath him,',",1
+"Hot and close the air around him,',",0
+"Filled with smoke and fiery vapors,',",0
+"As of burning woods and prairies,',",0
+"For his heart was hot within him,',",0
+"Like a living coal his heart was.',",1
+"So he journeyed westward, westward,',",0
+"Left the fleetest deer behind him,',",0
+"Left the antelope and bison;',",0
+"Crossed the rushing Esconaba,',",0
+"Crossed the mighty Mississippi,',",0
+"Passed the land of Crows and Foxes,',",0
+"Passed the dwellings of the Blackfeet,',",0
+"Came unto the Rocky Mountains,',",0
+"To the kingdom of the West-Wind,',",0
+"Where upon the gusty summits',",0
+"Sat the ancient Mudjekeewis,',",0
+"Ruler of the winds of heaven.',",0
+"Filled with awe was Hiawatha',",1
+"At the aspect of his father.',",1
+"On the air about him wildly',",1
+"Tossed and streamed his cloudy tresses,',",0
+"Gleamed like drifting snow his tresses,',",0
+"Glared like Ishkoodah, the comet,',",0
+"Like the star with fiery tresses.',",0
+"Filled with joy was Mudjekeewis',",1
+"When he looked on Hiawatha,',",0
+"Saw his youth rise up before him',",1
+"In the face of Hiawatha,',",0
+"Saw the beauty of Wenonah',",0
+"From the grave rise up before him.',",0
+"""Welcome!"" said he, ""Hiawatha,',",0
+"To the kingdom of the West-Wind',",0
+"Long have I been waiting for you',",0
+"Youth is lovely, age is lonely,',",0
+"Youth is fiery, age is frosty;',",1
+"You bring back the days departed,',",0
+"You bring back my youth of passion,',",1
+"And the beautiful Wenonah!""',",0
+"Many days they talked together,',",0
+"Questioned, listened, waited, answered;',",0
+"Much the mighty Mudjekeewis',",0
+"Boasted of his ancient prowess,',",0
+"Of his perilous adventures,',",0
+"His indomitable courage,',",1
+"His invulnerable body.',",1
+"Listening to his father's boasting;',",0
+"With a smile he sat and listened,',",0
+"Uttered neither threat nor menace,',",0
+"Neither word nor look betrayed him,',",1
+"But his heart was hot within him,',",1
+"Like a living coal his heart was.',",1
+"Then he said, ""O Mudjekeewis,',",0
+"Is there nothing that can harm you?',",0
+"Nothing that you are afraid of?""',",0
+"And the mighty Mudjekeewis,',",0
+"Grand and gracious in his boasting,',",0
+"Answered, saying, ""There is nothing,',",0
+"Nothing but the black rock yonder,',",0
+"Nothing but the fatal Wawbeek!""',",0
+"And he looked at Hiawatha',",0
+"With a wise look and benignant,',",0
+"With a countenance paternal,',",0
+"Looked with pride upon the beauty',",0
+"Of his tall and graceful figure,',",0
+"Is there anything can harm you?',",0
+"Anything you are afraid of?""',",0
+"But the wary Hiawatha',",1
+"Paused awhile, as if uncertain,',",0
+"Held his peace, as if resolving,',",1
+"And then answered, ""There is nothing,',",0
+"Nothing but the bulrush yonder,',",0
+"Nothing but the great Apukwa!""',",0
+"And as Mudjekeewis, rising,',",1
+"Stretched his hand to pluck the bulrush,',",0
+"Hiawatha cried in terror,',",0
+"Cried in well-dissembled terror,',",1
+"""Kago! kago! do not touch it!""',",0
+"""Ah, kaween!"" said Mudjekeewis,',",0
+"""No indeed, I will not touch it!""',",0
+"Then they talked of other matters;',",0
+"First of Hiawatha's brothers,',",0
+"Then of Hiawatha's mother,',",0
+"Of the beautiful Wenonah,',",0
+"Of her birth upon the meadow,',",0
+"Of her death, as old Nokomis',",1
+"Had remembered and related.',",0
+"And he cried, ""O Mudjekeewis,',",0
+"It was you who killed Wenonah,',",0
+"Took her young life and her beauty,',",1
+"Trampled it beneath your footsteps;',",0
+"You confess it! you confess it!""',",0
+"And the mighty Mudjekeewis',",0
+"Tossed upon the wind his tresses,',",0
+"Bowed his hoary head in anguish,',",0
+"With a silent nod assented.',",0
+"Then up started Hiawatha,',",0
+"And with threatening look and gesture',",0
+"Laid his hand upon the black rock,',",0
+"On the fatal Wawbeek laid it,',",0
+"With his mittens, Minjekahwun,',",0
+"Rent the jutting crag asunder,',",0
+"Smote and crushed it into fragments,',",0
+"Hurled them madly at his father,',",0
+"The remorseful Mudjekeewis,',",0
+"For his heart was hot within him,',",0
+"Like a living coal his heart was.',",1
+"But the ruler of the West-Wind',",0
+"Blew the fragments backward from him,',",0
+"With the breathing of his nostrils,',",0
+"With the tempest of his anger,',",1
+"Blew them back at his assailant;',",0
+"Seized the bulrush, the Apukwa,',",0
+"Dragged it with its roots and fibres',",0
+"From the margin of the meadow,',",0
+"From its ooze the giant bulrush;',",0
+"Long and loud laughed Hiawatha!',",0
+"Then began the deadly conflict,',",1
+"Hand to hand among the mountains;',",0
+"From his eyry screamed the eagle,',",0
+"The Keneu, the great war-eagle,',",0
+"Sat upon the crags around them,',",0
+"Wheeling flapped his wings above them.',",0
+"Like a tall tree in the tempest',",0
+"Bent and lashed the giant bulrush;',",0
+"And in masses huge and heavy',",0
