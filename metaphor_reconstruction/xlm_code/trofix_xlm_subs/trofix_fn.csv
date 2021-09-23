@@ -1,0 +1,6 @@
+sentence,arg1,arg2,verb,correct_label,prediction
+"The latest truce in the week-old battle , which has killed 188 and injured 534 , was arranged by Syrian President Assad and Iranian President Khamenei .",which,killed,188,1,0
+`` It floods the area instead of having hot pinpoints of glaring light . '',it,floods,area,1,0
+Three former scholarship winners now fly border patrol for the U.S. Customs Service .,winners,fly,patrol,1,0
+Karen Stern has played the harp surrounded by ice sculptures at a restaurant and as part of the display for a three-foot-high cake at a pastry competition .,stern,played,harp,1,0
+"Mr. Guy , a N.M. Rothschild & Sons director , said his bank and four other London bullion houses -- Mocatta & Goldsmid Ltd . , Sharps Pixley Ltd . , Samuel Montagu & Co. and Mase Wespac Ltd . -- will continue to carry out the 60-year-old tradition of fixing the price of gold twice a day .",tradition,fixing,price,1,0

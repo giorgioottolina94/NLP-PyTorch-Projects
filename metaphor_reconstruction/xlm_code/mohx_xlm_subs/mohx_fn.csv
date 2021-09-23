@@ -1,0 +1,6 @@
+sentence,arg1,verb,correct_label,prediction
+ They clawed their way to the top of the mountain .,way,claw,1,0
+ We rotate the crops so as to maximize the use of the soil .,crop,rotate,1,0
+ trees line the riverbank .,tree,line,1,0
+ The moon glared back at itself from the lake 's surface .,moon,glare,1,0
+ The path climbed all the way to the top of the hill .,path,climb,1,0
