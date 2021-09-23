@@ -1,0 +1,12 @@
+nouns,verbs,sentences,preds,true
+workers,abuse, This boss abuses his workers .,00100000000000000000,00000000000000000000
+singer,boost, The singer had to be boosted onto the stage by a special contraption .,00000100000000000000,00000000000000000000
+balloon,deflate, The balloons deflated .,00100000000000000000,00000000000000000000
+surface,dull, Age had dulled the surface .,00100000000000000000,00000000000000000000
+light,flash, The lights were flashing .,00010000000000000000,00000000000000000000
+mistress,paint, He painted his mistress many times .,01000000000000000000,00000000000000000000
+letter,stamp, Are the letters properly stamped ?,00001000000000000000,00000000000000000000
+grape,tread, tread grapes to make wine .,10000000000000000000,00000000000000000000
+person,breathe, I can breathe better when the air is clean .,00100000000000000000,00000000000000000000
+man,peep, He peeped at the woman through the window .,01000000000000000000,00000000000000000000
+finding,preserve, We preserve these archeological findings .,01000000000000000000,00000000000000000000

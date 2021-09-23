@@ -1,0 +1,15 @@
+nouns,verbs,sentences,preds,true
+way,claw, They clawed their way to the top of the mountain .,00000000000000000000,01000000000000000000
+martini,down, He downed three martinis before dinner .,00000000000000000000,01000000000000000000
+word,drink, The mother drinks in every word of her son on the stage .,00000000000000000000,00100000000000000000
+immigrant,hunt, They hunted the unwanted immigrants out of the neighborhood .,00000000000000000000,01000000000000000000
+job,juggle, She had to juggle her job and her children .,00000000000000000000,00010000000000000000
+news,leak, The news were leaked to the paper .,00000000000000000000,00010000000000000000
+hand,lock, He locked his hands around her neck .,00000000000000000000,01000000000000000000
+mountain,negociate, The hiker negociated the high mountain pass .,00000000000000000000,00100000000000000000
+fifty,push, She is pushing fifty .,00000000000000000000,00100000000000000000
+drug,push, The guy hanging around the school is pushing drugs .,00000000000000000000,00000001000000000000
+tornado,rip, The tornado ripped along the coast .,00000000000000000000,00100000000000000000
+wave,swallow, The huge waves swallowed the small boat and it sank shortly thereafter .,00000000000000000000,00010000000000000000
+river,thunder, The river thundered below .,00000000000000000000,00100000000000000000
+illness,visit," Every summer , we visited our relatives in the country for a month .",00000000000000000000,00001000000000000000
