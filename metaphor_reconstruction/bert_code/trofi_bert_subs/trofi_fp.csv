@@ -1,6 +1,0 @@
-sentence,correct_label,verb,verb_idx,prediction
-"But this month S & P is trying to take the real estate world by storm , with a marketing campaign targeting 200 , 000 real estate brokers , appraisers and portfolio managers ",0,target,21,1
-"Mr. Cossa 's grain bin may be filling up , but just last month another 100 peasants -- looking for food and security -- moved into the village to escape the fighting in the countryside ",0,escape,29,1
-"You may withdraw cash temporarily from an individual retirement account and escape a tax or penalty , if you roll it all over into another IRA in 60 days ",0,escape,11,1
-"The revolutionary gallium arsenide circuits used in a forthcoming model , the Cray-3 , experienced cooling problems that resulted in millions of dollars of added costs ",0,cool,15,1
-"The exception was Mr. Takeshita 's predecessor , Yasuhiro Nakasone , who stepped down in October after five years ",0,step,12,1
