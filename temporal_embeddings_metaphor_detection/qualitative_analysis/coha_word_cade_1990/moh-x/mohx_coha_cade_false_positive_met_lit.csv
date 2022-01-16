@@ -1,0 +1,199 @@
+nouns,verbs,sentences,preds,true
+workers,abuse, This boss abuses his workers .,00110000000000000000,00000000000000000000
+policeman,abuse, The actress abused the policeman who gave her a parking ticket .,00000000000100000000,00000000000000000000
+guest,accommodate, This hotel can accommodate 250 guests .,00010000000000000000,00000000000000000000
+colleague,acknowledge, He never acknowledges his colleagues when they run into him in the hallway .,00000000100000000000,00000000000000000000
+kindness,acknowledge, We must acknowledge the kindness she showed towards us .,10000000110000000000,00000000000000000000
+deed,acknowledge, acknowledge the deed .,00010000000000000000,00000000000000000000
+prince,acknowledge, The Crown Prince was acknowledged as the true heir to the throne .,00001100000000000000,00000000000000000000
+wallpaper,adhere, Will this wallpaper adhere to the wall ?,00100010000000000000,00000000000000000000
+question,answer, The question concerning the meaning of life can not be answered .,00000010000000000000,00000000000000000000
+mountain,ascend, We ascended the mountain .,11000000000000000000,00000000000000000000
+path,ascend, The path ascended to the top of the hill .,00100000000000000000,00000000000000000000
+poland,attack," Hitler attacked Poland on September 1 , 1939 and started World War II .",00010000000000000000,00000000000000000000
+village,attack, The Serbs attacked the village at night .,01000001000000000000,00000000000000000000
+foot,bind, The Chinese would bind the feet of their women .,00000000010000000000,00000000000000000000
+book,bind, They bind their books in leather .,00100000000000000000,00000000000000000000
+pine,blaze, The summer sun alone can cause a pine to blaze .,00000010000000000000,00000000000000000000
+voltage,boost, Boost the voltage in an electrical circuit .,00000001000000000000,00000000000000000000
+singer,boost, The singer had to be boosted onto the stage by a special contraption .,00000000001001000000,00000000000000000000
+ball,bounce, The rubber ball bounced .,00010000000000000000,00000000000000000000
+hair,brush, Johnson brushed the hairs from his jacket .,01000001000000000000,00000000000000000000
+wall,brush, He brushed the wall lightly .,01010000000000000000,00000000000000000000
+suit,brush, She brushed the suit before hanging it back into the closet .,01000001101100000000,00000000000000000000
+school,build, The government is building new schools in this state .,01000000000000000000,00000000000000000000
+sum,buy, This sum will buy you a ride on the train .,00010011001000000000,00000000000000000000
+love,buy, She wanted to buy his love with her dedication to him and his work .,00000000000010100000,00000000000000000000
+neutron,capture, This nucleus has captured the slow - moving neutrons .,10000000010000000000,00000000000000000000
+hill,climb, Did you ever climb up the hill behind your house ?,00001000000000000000,00000000000000000000
+act,commit, commit a random act of kindness .,00000010000000000000,00000000000000000000
+message,communicate, Please communicate this message to all employees .,00000100000000000000,00000000000000000000
+anxiety,communicate, He communicated his anxieties to the psychiatrist .,00100001000000000000,00000000000000000000
+haircut,compare, John compared his haircut to his friend 's .,00100100100000000000,00000000000000000000
+car,compare, This car does not compare with our line of Mercedes .,10000000001000000000,00000000000000000000
+dynasty,compare, We can compare the Han dynasty to the Romans .,10000000010000000000,00000000000000000000
+office,computerize, Our office is fully computerized now .,00000010000000000000,00000000000000000000
+industry,computerize, They computerized the car industry .,10000100000000000000,00000000000000000000
+air,condense, The cold air condensed the steam .,00100000000000000000,00000000000000000000
+planet,condense, All our planets condensed out of the same material .,10110000000000000000,00000000000000000000
+spasm,convulse, The spasm convulses her facial muscles .,00010010000000000000,00000000000000000000
+crocodile,crawl, The crocodile was crawling along the riverbed .,00001001000000000000,00000000000000000000
+hair,curl," Curl my hair , please .",10000100000000000000,00000000000000000000
+plate,dash, He dashed the plate against the wall .,00000010000000000000,00000000000000000000
+mattress,deflate, deflate the air mattress .,10100000000000000000,00000000000000000000
+balloon,deflate, The balloons deflated .,00100000000000000000,00000000000000000000
+suit,design, Chanel designed the famous suit .,01010000000000000000,00000000000000000000
+sandwich,devour, he devoured three sandwiches .,01101000000000000000,00000000000000000000
+protein,digest, Protein digests in a few hours .,01000110000000000000,00000000000000000000
+suspect,down, The policeman downed the heavily armed suspect .,00101100000000000000,00000000000000000000
+tank,drain, We drained the oil tank .,00000100000000000000,00000000000000000000
+liter,drink, The patient must drink several liters each day .,00000000100000000000,00000000000000000000
+husband,drink, The husband drinks and beats his wife .,00000101000000000000,00000000000000000000
+surface,dull, Age had dulled the surface .,00100100000000000000,00000000000000000000
+garbage,dump, The truck dumped the garbage in the street .,00101000100000000000,00000000000000000000
+proprietor,emerge," Suddenly , the proprietor emerged from his office .",00010010100000000000,00000000000000000000
+pen,engrave, engrave the pen with the owner 's name .,00000001000000000000,00000000000000000000
+disk,erase, Who erased the files form my hard disk ?,11000000000000000000,00000000000000000000
+bottle,explode, The champagne bottle exploded .,00001000000000000000,00000000000000000000
+bridge,explode, The enemy exploded the bridge .,00000100000000000000,00000000000000000000
+dress,fasten, This dress fastens in the back .,00000010000000000000,00000000000000000000
+grape,ferment, We ferment the grapes for a very long time to achieve high alcohol content .,01000100000000000000,00000000000000000000
+light,flash, The lights were flashing .,00010000000000000000,00000000000000000000
+star,flash, A shooting star flashed and was gone .,00001001000000000000,00000000000000000000
+village,flood, The swollen river flooded the village .,00000010000000000000,00000000000000000000
+basement,flood, Our basement flooded during the heavy rains .,00000001000000000000,00000000000000000000
+water,flow, Water flowed into the cave .,00100100000000000000,00000000000000000000
+garbage,flush, The garbage flushed down the river .,00000010000000000000,00000000000000000000
+water,form, the water formed little beads .,00001100000000000000,00000000000000000000
+car,fuel," fuel aircraft , ships , and cars .",00000001000000000000,00000000000000000000
+tanker,fuel, The tanker fueled in Bahrain .,00000100000000000000,00000000000000000000
+horse,gallop, The horse was galloping along .,00010100000000000000,00000000000000000000
+girl,glare, The girl glared at the man who tried to make a pass at her .,00000000001001100000,00000000000000000000
+firefly,glow, The fireflies were glowing and flying about in the garden .,00000000001000000000,00000000000000000000
+coal,glow, The coals were glowing in the dark .,00000001000000000000,00000000000000000000
+passenger,grab, The passenger grabbed for the oxygen mask .,01000000000000000000,00000000000000000000
+hand,grab, She grabbed the child 's hand and ran out of the room .,00000001000010000000,00000000000000000000
+woman,grope, He made some sexual advances at the woman in his office and groped her repeatedly .,00000000000010000000,00000000000000000000
+lava,gutter, The cooling lava continued to gutter toward lower ground .,00000010010000000000,00000000000000000000
+platter,heap, heap the platter with potatoes .,10000000000000000000,00000000000000000000
+boar,hunt, Goering often hunted wild boars in Poland .,00000001000000000000,00000000000000000000
+back,hurt, This exercise will hurt your back .,00000010000000000000,00000000000000000000
+heat,ignite, Great heat can ignite almost any dry matter .,00000000100000000000,00000000000000000000
+gas,ignite, Marsh gases ignited suddenly .,00001000000000000000,00000000000000000000
+people,immigrate, Many people immigrated at the beginning of the 20th century .,00000000010000000000,00000000000000000000
+head,incline, She inclined her head to the student .,00100001000000000000,00000000000000000000
+child,infect, Your children have infected you with this head cold .,01000000010000000000,00000000000000000000
+glucose,inject, We injected the glucose into the patient 's vein .,00001000000000000000,00000000000000000000
+hydrogen,inject, inject hydrogen into the balloon .,00100000000000000000,00000000000000000000
+program,interrupt, We interrupt the program for the following messages .,01000001000000000000,00000000000000000000
+poland,invade," Hitler invaded Poland on September 1 , 1939 .",00010000000000000000,00000000000000000000
+pedal,jam, The driver jammed the brake pedal to the floor .,00001000000000000000,00000000000000000000
+ball,juggle, the player juggled the ball .,00000100000000000000,00000000000000000000
+gun,kick, The gun kicked back into my shoulder .,00001000000000000000,00000000000000000000
+pilot,kite, The pilot kited for a long time over the mountains .,00000000010000000000,00000000000000000000
+bird,land, The bird landed on the highest branch .,00010001000000000000,00000000000000000000
+smuggler,land, The drug smugglers landed the heroin on the beach of the island .,00000010000000000000,00000000000000000000
+water,leak, Water leaked out of the can into the backpack .,01000010000000000000,00000000000000000000
+car,lend, I will lend you my car .,10000000000000000000,00000000000000000000
+load,lighten, she lightened the load on the tired donkey .,00001000000000000000,00000000000000000000
+room,lighten, The room lightened up .,00110000000000000000,00000000000000000000
+truck,load, load the truck with hay .,00001000000000000000,00000000000000000000
+gun,load, He loaded his gun carefully .,01001000000000000000,00000000000000000000
+jewel,lock, She locked her jewels in the safe .,00100000000000000000,00000000000000000000
+galaxy,map, We have n't even begun to map the many galaxies that we know exist .,10000000000000000000,00000000000000000000
+prisoner,march, The Japanese marched their prisoners through Manchuria .,00100101000000000000,00000000000000000000
+piece,match, The two pieces match .,00010000000000000000,00000000000000000000
+apple,mellow, These apples need to mellow a bit more .,00000100000000000000,00000000000000000000
+wax,melt, The wax melted in the sun .,00100000000000000000,00000000000000000000
+ice,melt, The sun melted the ice .,00100000000000000000,00000000000000000000
+furniture,mold, The furniture molded in the old house .,01000010000000000000,00000000000000000000
+solution,neutralize, She neutralized the solution .,01000000000000000000,00000000000000000000
+approval,nod, He nodded his approval .,00010000000000000000,00000000000000000000
+teacher,nod, The teacher nodded when the student gave the right answer .,00000000001000000000,00000000000000000000
+room,paint, We painted the rooms yellow .,01010100000000000000,00000000000000000000
+mistress,paint, He painted his mistress many times .,01100000000000000000,00000000000000000000
+sign,paste, paste the sign on the wall .,00010100000000000000,00000000000000000000
+wall,paste, paste the sign on the wall .,00000100000000000000,00000000000000000000
+bug,ping, The bugs pinged the lamp shade .,00101000000000000000,00000000000000000000
+drink,poison, Her husband poisoned her drink in order to kill her .,10000000000000000000,00000000000000000000
+father,portray, The father is portrayed as a good - looking man in this painting .,01101000000000000000,00000000000000000000
+water,pour, They poured water over the floor .,10000000000000000000,00000000000000000000
+water,pour, They poured water over the floor .,10000000000000000000,00000000000000000000
+forest,preserve, preserve the forest and the lakes .,00000010000000000000,00000000000000000000
+skin,prick, The needle pricked his skin .,00010000000000000000,00000000000000000000
+table,push, He pushed the table into a corner .,00001100000000000000,00000000000000000000
+woman,push," "" Now push hard "" , said the doctor to the woman .",00000000100000000000,00000000000000000000
+pirate,raid, The pirates raided the coastal villages regularly .,00001000000000000000,00000000000000000000
+company,raid, T. Boone Pickens raided many large companies .,01000100000000000000,00000000000000000000
+fort,recapture, The military forces managed to recapture the fort .,00110000000000000000,00000000000000000000
+prisoner,recapture, They tried to recapture the escaped prisoner .,10000000000000000000,00000000000000000000
+bell,recast, The bell cracked and had to be recast .,00100000000000000000,00000000000000000000
+road,reflect, Drive carefully -- the wet road reflects .,01000110000000000000,00000000000000000000
+image,reflect, her sunglasses reflected his image .,00110000000000000000,00000000000000000000
+system,reform, reform a political system .,01000000000000000000,00000000000000000000
+tension,relax, relax the tension on the rope .,00010000000000000000,00000000000000000000
+colleague,relax, our new colleague relaxed when he saw that we were a friendly group .,00000000001001100000,00000000000000000000
+man,revive, The doctors revived the comatose man .,00100000000000000000,00000000000000000000
+curtain,rip, The curtain ripped from top to bottom .,00100000000000000000,00000000000000000000
+pig,root, the pig was rooting for truffles .,00010000000000000000,00000000000000000000
+fabric,ruffle, The seamstress ruffled the curtain fabric .,00100100000000000000,00000000000000000000
+car,ruin, You have ruined my car by pouring sugar in the tank !,00000100000000000000,00000000000000000000
+meat,salt, people used to salt meats on ships .,00000100000000000000,00000000000000000000
+soldier,salute," When the officers show up , the soldiers have to salute .",00000000000100000000,00000000000000000000
+X-ray,scan, the surgeon scanned the X - ray .,00000001000000000000,00000000000000000000
+forest,scorch, The wildfire scorched the forest and several homes .,00000100000000000000,00000000000000000000
+cat,scrape, The cat scraped at the armchair .,00000010000000000000,00000000000000000000
+letter,scrape, They scraped a letter into the stone .,01100000000000000000,00000000000000000000
+money,seize, The sales clerk quickly seized the money on the counter .,00000001000000000000,00000000000000000000
+book,sell, These books sell like hot cakes .,00100000000000000000,00000000000000000000
+salt,shake, Shake the salt out of the salt shaker .,00000000100000000000,00000000000000000000
+tear,shed, She shed a lot of tears when this happened .,01100000010000000000,00000000000000000000
+vessel,shipwreck, The vessel was shipwrecked .,00011000000000000000,00000000000000000000
+nightingale,sing, The nightingale was singing .,01010000000000000000,00000000000000000000
+cocaine,snort, The addict was snorting cocaine almost every day .,00000010000000000000,00000000000000000000
+seed,sow, She sowed sunflower seeds .,00001000000000000000,00000000000000000000
+word,spell, How do you spell this word ?,00010000000000000000,00000000000000000000
+water,splash, She splashed the water around her .,00000100000000000000,00000000000000000000
+dress,spot, This dress spots quickly .,00100000000000000000,00000000000000000000
+area,spot, spot the areas that one should clearly identify .,00001001000000000000,00000000000000000000
+water,spray, Water sprayed all over the floor .,00000010000000000000,00000000000000000000
+water,spray, spray water on someone .,00101000000000000000,00000000000000000000
+cheese,spread, spread cheese on a piece of bread .,01100011000000000000,00000000000000000000
+oil,spread, A big oil spot spread across the water .,00000100100000000000,00000000000000000000
+wood,square, square the wood with a file .,00000010000000000000,00000000000000000000
+man,stagger, The drunken man staggered into the room .,00001000000000000000,00000000000000000000
+chair,stagger, The architect decided to stagger the chairs in the lecture hall .,00100000000000000000,00000000000000000000
+water,stagnate, There are marshes that stagnate the waters .,01000000000000000000,00000000000000000000
+animal,stampede, Thunderbolts can stampede animals .,10101000000000000000,00000000000000000000
+ship,steam, The ship steamed off into the Pacific .,00001000000000000000,00000000000000000000
+tear,stream, Tears streamed down her face .,00010100000000000000,00000000000000000000
+nose,stuff, My nose is all stuffed .,00010000000000000000,00000000000000000000
+belly,swell, The bellies of the starving children are swelling .,00000100000000000000,00000000000000000000
+snake,swim, this snake swims through the soil where it lives .,00010000000000000000,00000000000000000000
+notice,tack, tack the notice on the board .,10010000000000000000,00000000000000000000
+victim,tie, They tied their victim to the chair .,10000000000000000000,00000000000000000000
+fly,tie, The fishermen tied their flies .,00010100000000000000,00000000000000000000
+tree,top, A star tops the Christmas Tree .,00000010000000000000,00000000000000000000
+tower,top, The towers were topped with conical roofs .,00000001000000000000,00000000000000000000
+outline,trace, trace the outline of a figure in the sand .,00000000010000000000,00000000000000000000
+grape,tread, tread grapes to make wine .,00010100000000000000,00000000000000000000
+bird,tread, male birds tread the females .,00000100000000000000,00000000000000000000
+camp,trench, He trenched his military camp .,01000100000000000000,00000000000000000000
+letter,trench, letters trenched into the stone .,00101000000000000000,00000000000000000000
+chain,tug, The prisoner tugged at the chains .,00000010000000000000,00000000000000000000
+shoulder,twist, The wrestler twisted his shoulder .,00000100000000000000,00000000000000000000
+cord,twist, The cord is all twisted .,00001000000000000000,00000000000000000000
+vine,uproot, They plan to uproot the vine that has spread all over the garden .,10000000000000000000,00000000000000000000
+property,vest, The property vests in the trustees .,00000010000000000000,00000000000000000000
+relative,visit," Every summer , we visited our relatives in the country for a month .",00000000000001000000,00000000000000000000
+ball,volley, They began to volley the tennis ball .,10000001000000000000,00000000000000000000
+pig,wallow, pigs were wallowing in the mud .,00000010000000000000,00000000000000000000
+hair,wear, wear one 's hair in a certain way .,00000000100000000000,00000000000000000000
+child,wrestle, The children wrestled in the garden .,00100010000000000000,00000000000000000000
+wine,breathe, This rare Bordeaux must be allowed to breathe for at least 2 hours .,00000100000010000000,00000000000000000000
+drawing,color, The child colored the drawings .,00000100000000000000,00000000000000000000
+people,communicate, He and his sons have n't communicated for years .,01000000000000000000,00000000000000000000
+cup,engrave, engraved the trophy cupt with the winner 's .,00000000100000000000,00000000000000000000
+man,march, He marched into the classroom and announced the exam .,00000100100000000000,00000000000000000000
+man,peep, He peeped at the woman through the window .,01000000100000000000,00000000000000000000
+finding,preserve, We preserve these archeological findings .,11000000000000000000,00000000000000000000

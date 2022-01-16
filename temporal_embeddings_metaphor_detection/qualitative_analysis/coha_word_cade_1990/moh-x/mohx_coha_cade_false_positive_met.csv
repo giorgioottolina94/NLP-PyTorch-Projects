@@ -1,0 +1,197 @@
+nouns,verbs,sentences,preds,true
+knowledge,absorb, He absorbed the knowledge or beliefs of his tribe .,01001001000000000000,01000000000000000000
+tax,absorb, The sales tax is absorbed into the state income tax .,00001100000000000000,00001000000000000000
+immigrant,absorb, The immigrants were quickly absorbed into society .,00010100000000000000,00001000000000000000
+interest,absorb, Her interest in butterflies absorbs her completely .,10001010000000000000,00001000000000000000
+alcohol,abuse, Her husband often abuses alcohol .,10010000000000000000,00010000000000000000
+result,accommodate, The scientists had to accommodate the new results with the existing theories .,01001000000000000000,00001000000000000000
+resident,adhere, The residents of this village adhered to Catholicism .,00000010001000000000,00000100000000000000
+steering,answer, The steering of my new car answers to the slightest touch .,00000000000100000000,00000010000000000000
+speaker,attack, The editors of the left - leaning paper attacked the new House Speaker .,00001001100000000000,00000000100000000000
+cancer,attack, The cancer cells are attacking his liver .,00001110000000000000,00001000000000000000
+problem,besiege, She was besieged by so many problems that she got discouraged .,00100000010000000000,00100000000000000000
+oxygen,bind, The hydrogen binds the oxygen .,00100100000000000000,00100000000000000000
+meteor,blaze, Meteors blazed across the atmosphere .,01100000000000000000,01000000000000000000
+spaceship,blaze, The spaceship blazed out into space .,00101000000000000000,00100000000000000000
+administration,blister, The Senator blistered the administration in his speech on Friday .,00001000100000000000,00100000000000000000
+economy,boost, The tax cut will boost the economy .,00001001000000000000,00001000000000000000
+government,bow, The government bowed to the military pressure .,01100001000000000000,00100000000000000000
+life,breathe, He breathed new life into the old house .,01001000000000000000,01000000000000000000
+fabric,breathe, Our new synthetic fabric breathes and is perfect for summer wear .,10001011000000000000,00001000000000000000
+defense,build, build a defense on nothing but the accused person 's reputation .,10110000000100000000,10000000000000000000
+story,buy, I ca n't buy this story .,10010010000000000000,00010000000000000000
+office,buzz, This office is buzzing with activity .,10110010000000000000,00010000000000000000
+servant,buzz, he buzzed the servant .,01001000000000000000,01000000000000000000
+way,claw, They clawed their way to the top of the mountain .,11000000010000000000,01000000000000000000
+rival,claw, The politician clawed his rival .,00110000000000000000,00100000000000000000
+sale,climb, Sales were climbing after prices were lowered .,00010000000000000000,00100000000000000000
+path,climb, The path climbed all the way to the top of the hill .,00010000000000000000,00100000000000000000
+horse,clog, horses were clogged until they were tamed .,00010000000000000000,00100000000000000000
+market,clog, The market is being clogged by these operations .,00011100000000000000,00001000000000000000
+memory,cloud, The stroke clouded memories of her youth .,00110110000000000000,00100000000000000000
+idea,color, His political ideas color his lectures .,00011000000000000000,00010000000000000000
+room,communicate, The rooms communicated .,01010000000000000000,00100000000000000000
+personality,compose, Greed and ambition composed his personality .,00011000000000000000,00010000000000000000
+plan,condense, Congress condensed the three - year plan into a six - month plan .,00010000100000000000,01000000000000000000
+crowd,convulse, The comedian convulsed the crowd .,01100000000000000000,00100000000000000000
+cheese,crawl, The old cheese was crawling with maggots .,00101001000000000000,00001000000000000000
+meeting,crown, The speech crowned the meeting .,00100100000000000000,00100000000000000000
+building,crown, A weather vane crowns the building .,00100000000000000000,00010000000000000000
+refusal,crush, She was crushed by his refusal of her invitation .,00101000000000000000,00100000000000000000
+smoke,curl, The cigar smoke curled up at the ceiling .,00011000000000000000,00010000000000000000
+ambition,dash, dashed ambitions and hopes .,10100000000000000000,10000000000000000000
+confidence,deflate, The bad review of his work deflated his self - confidence .,00101011000000000000,00000010000000000000
+economy,deflate, The new measures deflated the economy .,00010010000000000000,00010000000000000000
+excuse,design, She designed a good excuse for not attending classes that day .,01001000000000000000,01000000000000000000
+novel,devour, She devoured his novels .,01101000000000000000,01000000000000000000
+law,digest, the government digested the entire law into a code .,00101011010000000000,00100000000000000000
+martini,down, He downed three martinis before dinner .,01001000000000000000,01000000000000000000
+pound,down, Some people can down a pound of meat in the course of one meal .,00001000000000100000,00010000000000000000
+life,drain, Life in the camp drained him .,10000010000000000000,00001000000000000000
+price,drift, stock prices are drifting higher .,00110100000000000000,00010000000000000000
+son,drift, My son drifted around for years in California before going to law school .,00100001000001000000,00100000000000000000
+trouble,drown, She drowned her trouble in alcohol .,01000010000000000000,01000000000000000000
+appetite,dull, Middle age dulled her appetite for travel .,01110001000000000000,00100000000000000000
+event,engrave, The event engraved itself into her memory .,00101100000000000000,00100000000000000000
+unrest,erupt, Unrest erupted in the country .,01100100000000000000,01000000000000000000
+tooth,erupt, The tooth erupted and had to be extracted .,00110000000000000000,00100000000000000000
+rash,erupt, A rash erupted on her arms after she had touched the exotic plant .,00010010000001000000,00100000000000000000
+boss,explode, The boss exploded when he heard of the resignation of the secretary .,01100000000000000000,00100000000000000000
+nickname,fasten, They fastened various nicknames to each other .,11000001000000000000,01000000000000000000
+child,fill, fill the child with pride .,10000100000000000000,10000000000000000000
+star,flare, Every star seemed to flare with new intensity .,00000000100000000000,00001000000000000000
+intelligence,flash, The latest intelligence is flashed to all command posts .,00001000010000000000,00001000000000000000
+bill,flash, he flashed a $ 100 bill .,01010100000000000000,01000000000000000000
+ruble,float, The government floated the ruble for a few months .,00100000100000000000,00100000000000000000
+market,flood, flood the market with tennis shoes .,10000010000000000000,10000000000000000000
+crowd,flow, The crowd flowed out of the stadium .,00100001000000000000,00100000000000000000
+sky,flush, the sky flushed with rosy splendor .,01100000000000000000,00100000000000000000
+wound,flush, flush the wound with antibiotics .,10000100000000000000,10000000000000000000
+balance,fracture, These events could fracture the balance of power .,00010000100000000000,00010000000000000000
+debate,fuel, fuel the debate on creationism .,10010100000000000000,10000000000000000000
+press,gag, The press was gagged .,00011110000000000000,00010000000000000000
+moon,glare, The moon glared back at itself from the lake 's surface .,00100000000100000000,00100000000000000000
+sun,glare, The sun glared down on us .,00101010000000000000,00100000000000000000
+face,glow, Her face glowed when she came out of the sauna .,00000100000000000000,00100000000000000000
+heart,glow, Make the people 's hearts glow .,10000100000000000000,00000100000000000000
+story,grab, This story will grab you .,00000100000000000000,00010000000000000000
+conversation,gravitate, The conversation gravitated towards politics .,00100010000000000000,00100000000000000000
+mind,grope, His mind groped to make the connection .,00100001000000000000,00100000000000000000
+vaccine,guard, This vaccine will guard you against infection .,00010001000000000000,00010000000000000000
+color,harmonize, The colors do n't harmonize .,00001100000000000000,00001000000000000000
+goal,harmonize, harmonize one 's goals with one 's abilities .,11000100100000000000,10000000000000000000
+work,heap, He heaped him with work .,01000100000000000000,01000000000000000000
+business,hurt, Our business was hurt by the new competition .,00111000100000000000,00010000000000000000
+hatred,ignite, The ostentatious way of living of the rich ignites the hatred of the poor .,00000000101000100000,00000000100000000000
+society,infect, society was infected by racism .,01010101000000000000,00100000000000000000
+laughter,infect, His laughter infects everyone who is in the same room .,00000000001000000000,00100000000000000000
+charge,inflate, The charges were inflated .,00011000000000000000,00010000000000000000
+economy,inflate, The war inflated the economy .,00100100000000000000,00100000000000000000
+currency,inflate, inflate the currency .,00010000000000000000,10000000000000000000
+life,inject, He injected new life into the performance .,01001010100000000000,01000000000000000000
+pregnancy,interrupt, She interrupted her pregnancy .,01001000000000000000,01000000000000000000
+colleague,invade, This new colleague invades my territory .,10010100000000000000,00010000000000000000
+lungs,invade, The cancer had invaded her lungs .,00011010000000000000,00010000000000000000
+account,juggle, juggle an account so as to hide a deficit .,10000001000000000000,10000000000000000000
+job,juggle, She had to juggle her job and her children .,00010001101000000000,00010000000000000000
+action,key, key one 's actions to the voters ' prevailing attitude .,11000000000000000000,10000000000000000000
+check,kite, He kited many checks .,01001000000000000000,01000000000000000000
+jail,land, this may land you in jail .,00100010000000000000,00100000000000000000
+blow,land, He landed several blows on his opponent 's head .,01000100000000000000,01000000000000000000
+foundation,lay, lay the foundation for a new health care plan .,10001000010000000000,10000000000000000000
+responsibility,lay, lay a responsibility on someone .,01010000000000000000,10000000000000000000
+news,leak, The news were leaked to the paper .,00010010000000000000,00010000000000000000
+story,lend, This story would lend itself well to serialization on television .,10010000000000000000,00010000000000000000
+hand,lock, He locked his hands around her neck .,01000100000000000000,01000000000000000000
+laughing,lock, He was locked in a laughing fit .,00101000000000000000,00100000000000000000
+sorrow,map, sorrow was mapped on the mother 's face .,00110000100000000000,00100000000000000000
+dream,match, This job does n't match my dreams .,10001001100000000000,00001000000000000000
+athlete,match, Let them match their best athletes against ours .,01100000000000000000,00100000000000000000
+experience,mellow, Age and experience mellowed him over the years .,00110000000000000000,00010000000000000000
+resistance,melt, her resistance melted under his charm .,10100010000000000000,00100000000000000000
+opponent,paste, He pasted his opponent .,01010000000000000000,01000000000000000000
+moon,peep, The new moon peeped through the tree tops .,00011000000000000000,00010000000000000000
+accountant,ping, I 'll ping my accountant -- April 15 is nearing .,10100000100000000000,00100000000000000000
+market,plunge, the stock market plunged .,00110000000000000000,00010000000000000000
+book,portray, The book portrays the actor as a selfish person .,00100100000000000000,00100000000000000000
+question,pose, This poses an interesting question .,01000100000000000000,01000000000000000000
+prisoner,pound, The prisoners are safely pounded .,00101000000000000000,00001000000000000000
+money,pour, We poured money into the education of our children .,11000000100000000000,01000000000000000000
+economy,precipitate, Our economy precipitated into complete ruin .,10110000000000000000,00100000000000000000
+train,precipitate, The bridge broke and precipitated the train into the river below .,01001001000000000000,00001000000000000000
+peace,preserve, preserve the peace in the family .,10100000000000000000,10000000000000000000
+conscience,prick, The thought of her unhappiness pricked his conscience .,00001100100000000000,00000100000000000000
+ego,puff, The sudden fame puffed her ego .,01011000000000000000,00010000000000000000
+critic,puff, The critics puffed up this Broadway production .,00110000000000000000,00100000000000000000
+witness,pump, She pumped the witnesses for information .,01000010000000000000,01000000000000000000
+salesman,push, The salesman is aggressively pushing the new computer model .,00100000000000000000,00001000000000000000
+reform,push, The liberal party pushed for reforms .,00010010000000000000,00010000000000000000
+drug,push, The guy hanging around the school is pushing drugs .,00000011000000000000,00000001000000000000
+happiness,radiate, She radiates happiness .,01100000000000000000,01000000000000000000
+refrigerator,raid, Our babysitter raided our refrigerator .,00000100000000000000,00100000000000000000
+feeling,recapture, She could not recapture that feeling of happiness .,01000001000000000000,00010000000000000000
+idea,recapture, The author recaptures an old idea here .,01000000000000000000,00100000000000000000
+effort,redound, Her efforts will redound to the general good .,10010000000000000000,00010000000000000000
+belief,reflect, This action reflects his true beliefs .,01110000000000000000,00100000000000000000
+interest,reflect, His lack of interest in the project reflects badly on him .,00000001010000000000,00000001000000000000
+mess,reflect, The mess in his dorm room reflects on the student .,01011010000000000000,00000010000000000000
+government,relax, The government relaxed the curfew after most of the rebels were caught .,00100000000100000000,00100000000000000000
+rule,relax, The rules relaxed after the new director arrived .,00100001100110000000,00100000000000000000
+candidate,rip, The candidate ripped into his opponent mercilessly .,00101100000000000000,00100000000000000000
+problem,root, The problem roots in her depression .,00000010000000000000,00100000000000000000
+soprano,rotate, We rotate the lead soprano every night .,11001100000000000000,01000000000000000000
+composure,ruffle, She wanted to ruffle his composure .,01011000000000000000,00010000000000000000
+chance,ruin, This behavior will ruin your chances of winning the election .,00010000010000000000,00010000000000000000
+courage,salute, I salute your courage !,11000000000000000000,01000000000000000000
+headline,scan, She scanned the newspaper headlines while waiting for the taxi .,01001000000000000000,01000000000000000000
+heat,scorch, The heat scorched the countryside .,00100100000000000000,00100000000000000000
+money,scrape, She had scraped together enough money for college .,00110000100000000000,00100000000000000000
+fear,seize, Fear seized the prisoners .,10000000000000000000,01000000000000000000
+image,sell, The French try to sell us their image as great lovers .,00001010100000000000,00001000000000000000
+hope,shake, The bad news shook her hopes .,00110010000000000000,00010000000000000000
+argument,sharpen, We had to sharpen our arguments .,00010010000000000000,00010000000000000000
+vision,sharpen, This drug will sharpen your vision .,00010100000000000000,00010000000000000000
+image,shed, He shed his image as a pushy boss .,00101100100000000000,01000000000000000000
+career,shipwreck, You have shipwrecked my career .,00100100000000000000,00100000000000000000
+praise,shower, He was showered with praise .,00100100000000000000,00100000000000000000
+present,shower, He showered her with presents .,01100000000000000000,01000000000000000000
+kettle,sing, the kettle was singing .,00011000000000000000,00010000000000000000
+house,sit, The White House sits on Pennsylvania Avenue .,00011000000000000000,00010000000000000000
+cream,smother, the butter cream smothered the cake .,00000010000000000000,00010000000000000000
+suspicion,sow, sow suspicion or beliefs .,01000000000000000000,10000000000000000000
+trouble,spell, I 'm afraid this spells trouble !,10000000000000000000,00001000000000000000
+husband,spell, She spelled her husband at the wheel .,01100001000000000000,01000000000000000000
+worker,spell, the workers spell every four hours .,00110000000000000000,00100000000000000000
+language,spread, The invaders spread their language all over the country .,01110000000000000000,00100000000000000000
+bill,stagger, She was staggered with bills after she tried to rebuild her house following the earthquake .,00100000001000000000,00100000000000000000
+industry,stagnate, Industry will stagnate if we do not stimulate our economy .,00100000001000000000,00100000000000000000
+name,stamp, a man whose name is permanently stamped on our maps .,00010010010000000000,00000010000000000000
+opposition,steamroller, steamroller the opposition .,10010000000000000000,10000000000000000000
+mane,stream, their manes streamed like stiff black pennants in the wind .,10000000000000000000,00100000000000000000
+sweat,stream, She was streaming with sweat .,00101000000000000000,00100000000000000000
+wave,swallow, The huge waves swallowed the small boat and it sank shortly thereafter .,01000001010010000000,00010000000000000000
+story,swallow, Am I supposed to swallow that story ?,11001000000000000000,00001000000000000000
+music,swell, The music swelled to a crescendo .,00101000000000000000,00100000000000000000
+mother,swell, The mother was swelling with importance when she spoke of her son .,00010000001000000000,00010000000000000000
+action,talk, Actions talk louder than words .,01000100000000000000,01000000000000000000
+freedom,taste, The ex - slave tasted freedom shortly before she died .,00001010000000000000,00001000000000000000
+patience,tax, You are taxing my patience .,01100100000000000000,00100000000000000000
+failure,tax, They taxed him failure to appear in court .,10000000000000000000,01000000000000000000
+jet,tie, These big jets are tied to large airports .,00001010100000000000,00001000000000000000
+dinner,top, They topped off their dinner with a cognac .,10000000000000000000,01000000000000000000
+hiker,top, The hikers topped the mountain just before noon .,00100000100000000000,00100000000000000000
+circumstance,trace, She traced the circumstances of her birth .,01000001000000000000,01000000000000000000
+experience,transform, This experience transformed her completely .,00000100000000000000,00100000000000000000
+living,tug, She tugged for years to make a decent living .,01010111000000000000,01000000000000000000
+people,uproot, The war uprooted many people .,00100100000000000000,00100000000000000000
+rage,visit, The principal visited his rage on the students .,00011001100000000000,00100000000000000000
+curse,volley, I heard him volley a string of curses .,10010000100000000000,00010000000000000000
+optimism,whistle, Her optimism whistled away these worries .,10100000000000000000,00100000000000000000
+feeling,wrestle, He wrestled all his life with his feeling of inferiority .,00001000010000000000,01000000000000000000
+judgement,color, My personal feelings color my judgment in this case .,00010000010000000000,00010000000000000000
+feeling,condense, Her feelings condensed .,00010000000000000000,00100000000000000000
+employee,dump, The company dumped him after many years of service .,00000010110000000000,00100000000000000000
+theatre,jam, the theater was jampacked .,00011000000000000000,00010000000000000000
+man,lighten," after a glass of wine , he lightened up a bit .",10000000000000000000,00000001000000000000
+person,lock, They were locked in embrace .,10100000000000000000,00100000000000000000
+feeling,palpitate, His heart palpitated .,00010000000000000000,00100000000000000000
