@@ -1,4 +1,4 @@
-# On the Impact of Temporal Representations on Metaphor Detection (LREC 2022)
+# On the Impact of Temporal Representations on Metaphor Detection [LREC 2022]
 
 Our explorative analysis highlighted interesting recurring patterns, such as: the interactions between literal meanings and domains of discourse (for example, in sentences containing correctly identified metaphors, the topics related to economics, politics, and emotions are the most recurring ones); verbs with a literal meaning characterized by physical connotations, often getting figurative meanings when used in sentences related to the aforementioned contexts (economics, politics, emotions, etc).
 
